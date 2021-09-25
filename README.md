@@ -1,4 +1,5 @@
-# Machine-Learning-for-IoT-
+# Machine-Learning-for-IoT
+https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TXPSM&p_a_acc=2022&p_header=S&p_lang=IT
 The course aims to introduce the problems related to the implementation of machine learning applications and algorithms on platforms other than high-performance servers available in the cloud. Specifically, it introduces the main challenges which arise from the use of portable, low-power devices as the hosting node for the inference stages, showing which are the design and optimization techniques available today for App-Developers.  
 
 This encompasses three main objectives: 
